@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tables</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="numberqick">Quick Search-Enter Number</string>
+    <string name="tables">Tables: 1-30</string>
+
+</resources>
